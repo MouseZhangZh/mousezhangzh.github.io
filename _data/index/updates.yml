@@ -1,4 +1,8 @@
 # updates data
+- date: 2021-02-16
+  description:
+    - desc: 搭建基于github pages & jekyll的个人博客，东拼西凑而成，哈哈
+    - desc: 上传一些sample
 - date: 2020-05-10
   description:
     - desc: 增加jemoji插件, emoji换行显示问题fix,see[https://github.com/jekyll/jemoji/issues/24]

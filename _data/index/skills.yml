@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, Scala, MySQL, Design, English
-percentage: 70, 60, 50, 70, 30
+aspects: C\C++, Java, C#, MySQL, Linux
+percentage: 70, 40, 40, 30, 60

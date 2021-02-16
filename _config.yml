@@ -1,1 +1,71 @@
-theme: jekyll-theme-slate
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: MouseZhangZh
+email: sendbypython@foxmail.com
+description: MouseZhangZh's blog,powered by jekyll.
+url: https://MouseZhangZh.github.io/blog # the base hostname & protocol for your site
+keywords: ["Linux", "C/C++", "Qt","blog"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Shanghai
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+plugins:
+  - jekyll-gist
+  - jemoji
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: MouseZhangZh
+  avatar: avatar.jpg
+  job: "Linux & C/C++ Developer"
+  bio: "A C++ developer who loves program bugs. Working for KylinOS at in Tianjin, China."
+  email: sendbypython@foxmail.com
+  disqus-shortname: #username
+  twitter:  #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-62251910-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: MouseZhangZh #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username

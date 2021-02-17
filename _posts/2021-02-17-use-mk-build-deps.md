@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "使用mk-build-deps安装依赖"
-excerpt: "."
+excerpt: "在日常开发中，常常会遇到依赖问题，使用mk-build-deps可一键安装所有依赖，当然，前提是你需要在项目的control文件中先写好所有的依赖:)"
 categories: [Debian, C++, Qt]
 comments: true
 ---

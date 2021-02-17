@@ -1,4 +1,7 @@
 # updates data
+- date: 2021-02-17
+  description:
+    - desc: 修改了仓库名称
 - date: 2021-02-16
   description:
     - desc: 搭建基于github pages & jekyll的个人博客，东拼西凑而成，哈哈

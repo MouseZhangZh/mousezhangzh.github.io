@@ -2,7 +2,7 @@
 layout: post
 title: "中文分词库简要对比"
 excerpt: "再搞分词就转NLP辣！！！"
-categories: [Debian, C++, Qt]
+categories: [C, C++]
 comments: true
 ---
 

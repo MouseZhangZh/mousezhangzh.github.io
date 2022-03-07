@@ -6,7 +6,7 @@
 title: MouseZhangZh
 email: sendbypython@foxmail.com
 description: MouseZhangZh's blog,powered by jekyll.
-url: https://MouseZhangZh.github.io/ # the base hostname & protocol for your site
+url: https://MouseZhangZh.github.io # the base hostname & protocol for your site
 keywords: ["Linux", "C/C++", "Qt","blog"]
 
 #
